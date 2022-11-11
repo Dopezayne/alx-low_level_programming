@@ -8,7 +8,7 @@
  * return: if an error occurs - -1.
  * otherwise - 1
  */
-int clear_bit(unsined long int *n, unsigned int index)
+int clear_bit(unsigned long int *n, unsigned int index)
 {
 	unsigned int m;
 
